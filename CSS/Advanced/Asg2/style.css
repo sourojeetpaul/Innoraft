@@ -25,6 +25,7 @@ a {
   display: flex;
   padding-right: 6%;
 }
+
 .banner {
   background: linear-gradient(rgba(33, 34, 65, 0.85), rgba(33, 34, 65, 0.85)),
     url(./images/img-1.jpg);
@@ -177,7 +178,6 @@ p {
   justify-content: center;
 }
 .content {
-  /* padding-top: 26%; */
   color: white;
 }
 .imgcenter {
@@ -200,21 +200,8 @@ p {
 .cards1 {
   height: 300px;
   width: 300px;
-  /* background-color: red; */
   margin-right: 2%;
 }
-/* .cards2{
-    height: 300px;
-    width: 300px;
-    margin-right: 2%;
-     background-color: red;
-}
-.cards3{
-    height: 300px;
-    width: 300px;
-    margin-right: 2%;
-     background-color: red;
-} */
 .cards4 {
   height: 200px;
   width: 200px;
@@ -273,26 +260,21 @@ button {
 }
 .catalogue {
   display: flex;
-  /* padding-left: 7%;
-    padding-top: 1%; */
   justify-content: center;
 }
 .cr {
   height: 350px;
   width: 250px;
-  /* background-color: red; */
   margin-right: 2%;
 }
 .cr-l {
   height: 350px;
   width: 250px;
-  /* background-color: red; */
   margin-right: 0%;
 }
 .cr-mid {
   height: 360px;
   width: 250px;
-  /* background-color: red; */
   margin-right: 2%;
   display: flex;
   flex-direction: column;
@@ -351,26 +333,11 @@ button {
 .cards2-1 {
   height: 200px;
   width: 200px;
-  /* background-color: red; */
   margin-right: 2%;
 }
-/* .cards2-2{
-  height: 200px;
-    width: 200px;
-    margin-right: 2%;
-     background-color: red;
-}
-.cards2-3{
-    height: 200px;
-    width: 200px;
-    margin-right: 2%;
-     background-color: red;
-} */
 .cards2-4 {
   height: 200px;
   width: 200px;
-  /* background-color: red; */
-  /* margin-right: 2%; */
 }
 .highlight {
   color: yellow;
@@ -429,16 +396,9 @@ button {
   background-color: rgba(251, 250, 255, 255);
   margin-right: 2%;
 }
-/* .cards3-2{
-  height: 380px;
-    width: 300px;
-    margin-right: 2%;
-     background-color: red;
-} */
 .cards3-3 {
   height: 380px;
   width: 300px;
-  /* margin-right: 2%; */
   background-color: rgba(251, 250, 255, 255);
 }
 .banner7 {
@@ -514,14 +474,11 @@ button {
 .cards4-1 {
   height: 300px;
   width: 50%;
-  /* background-color: red; */
   margin-right: 2%;
 }
 .cards4-2 {
   height: 300px;
   width: 50%;
-  /* margin-right: 2%; */
-  /* background-color: red; */
 }
 .banner8 {
   background-color: #f5f4fa;
@@ -609,13 +566,11 @@ button {
 .cards9 {
   height: 280px;
   width: 280px;
-  /* background-color: red; */
   margin-right: 2%;
 }
 .cards9-l {
   height: 280px;
   width: 280px;
-  /* background-color: red; */
   margin-right: 0%;
 }
 .banner9 h3 {
