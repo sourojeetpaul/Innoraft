@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.box1 {
+  height: 50%;
+  width: 100%;
+  background-color: skyblue;
+}
+#btn {
+  background-color: aquamarine;
+  height: 10vh;
+  width: 100%;
+}
+.text{
+    height: 50%;
+    width: 80%;
+    background-color: red;
+    margin: auto;
+}
+h1 {
+  text-align: center;
+  padding: 9%;
+}

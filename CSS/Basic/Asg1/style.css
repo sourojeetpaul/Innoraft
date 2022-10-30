@@ -1,0 +1,27 @@
+#first {
+  width: 100%;
+  height: 10vh;
+  background-color: #ff4da5;
+}
+#second {
+  background-color: #ff037e;
+  margin-top: 10px;
+  width: 60%;
+  height: 70vh;
+}
+#third {
+  height: 70vh;
+  width: 40%;
+  background-color: #ce0468;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+#five {
+  width: 100%;
+  height: 10vh;
+  background-color: #802755;
+  margin-top: 10px;
+}
+.block{
+    display: flex;
+}

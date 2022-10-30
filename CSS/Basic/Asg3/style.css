@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;;
+}
+.text{
+    color: white;
+    padding: auto;
+    width: 50%;
+    margin-top: 50px;
+}
+.pic{
+    height: 200px;
+    width: 200px;
+    margin-top: 70px;
+}
+
+.child{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    padding: auto;
+    background-color: #e60000;
+}
+.parent
+{
+    min-height: calc(100vh - 50vh); 
+    width: 100vw;
+    background-color: #e60000;
+    display: flex;
+    justify-content: space-around;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cards{
+    background-color: #571312;
+    color: white;
+    padding: 20px;
+    padding-left: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cards-1,.cards-2{
+    margin-right: 10px;
+}
+.cards p{
+    font-weight: lighter;
+    opacity: 0.5;
+}
